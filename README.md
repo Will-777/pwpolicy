@@ -1,7 +1,7 @@
 pwpolicy
 ========
 
-Manage local pwpolicy on OS X
+Manage local pwpolicy on Mac OS X
 
 ### pwpolicyPerUser
 
@@ -24,10 +24,16 @@ These settings control password policy requirements.
 - `exemptAccount='admin'` - The shortname of an account you want to be exempt from password age checking.
 - `expirationTime='2592000'` - The number of seconds after $maxAge that account lockout happens.
 
-## Authors
+## Original Authors
 
 * Todd Thoule
 * Taylor Price - tprice@onehealth.com
+
+
+## Updates
+
+I will try to push few update on that
+
 
 ## Copyright
 
